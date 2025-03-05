@@ -13,6 +13,8 @@ _Create a site or blog from your GitHub repositories with GitHub Pages._
 
 </header>
 
+# HELLO, MY FRIEND!
+
 <!--
   <<< Author notes: Step 3 >>>
   Start this step by acknowledging the previous step.
